@@ -5,8 +5,12 @@ Notice: This project is only for learning Robotium, if this project has infringe
 
 ###FirstTestcase/addnote
 
+![image](https://github.com/lightningshuo/NotepadDemoTest/blob/master/addNote.gif)
+
 ###SecondTestcase/editnote
 
-
+![image](https://github.com/lightningshuo/NotepadDemoTest/blob/master/editTitle.gif)
 
 ###ThirdTestcase/directPaste
+
+![image](https://github.com/lightningshuo/NotepadDemoTest/blob/master/addFromPaste.gif)
